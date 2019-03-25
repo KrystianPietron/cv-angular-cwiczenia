@@ -1,0 +1,22 @@
+.experience__section {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.experience__section--h3 {
+    width: 20vw;
+}
+
+.experience__section--p {
+    margin: 30px 0 0 0;
+}
+
+.experience__section--div {
+    width: 60vw;
+}
+
+.experience__section--experienceShop{
+    margin: 50px 0 0 0;
+}
