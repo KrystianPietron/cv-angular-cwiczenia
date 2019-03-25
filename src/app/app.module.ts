@@ -13,6 +13,7 @@ import { ExperienceComponent } from './experience/experience.component';
 import { EducationComponent } from './education/education.component';
 import { HobbiesComponent } from './hobbies/hobbies.component';
 import { LinksComponent } from './links/links.component';
+import { DownloadComponent } from './download/download.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { LinksComponent } from './links/links.component';
     ExperienceComponent,
     EducationComponent,
     HobbiesComponent,
-    LinksComponent
+    LinksComponent,
+    DownloadComponent
   ],
   imports: [
     BrowserModule,

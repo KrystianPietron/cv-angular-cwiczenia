@@ -1,0 +1,16 @@
+.download__section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.download__section--h3 {
+    width: 20vw;
+}
+
+.download__section--div {
+    width: 60vw;
+    display: flex;
+    justify-content: space-evenly;
+}
