@@ -1,0 +1,17 @@
+.clause__footer--div-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.clause__footer--p {
+    font-size: 11px;
+}
+
+.clause__footer {
+    display: flex;
+    justify-content: center;
+}
+
+.clause__footer--div {
+    width: 80vw;
+}

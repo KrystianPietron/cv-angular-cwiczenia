@@ -14,6 +14,7 @@ import { EducationComponent } from './education/education.component';
 import { HobbiesComponent } from './hobbies/hobbies.component';
 import { LinksComponent } from './links/links.component';
 import { DownloadComponent } from './download/download.component';
+import { ClauseComponent } from './clause/clause.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { DownloadComponent } from './download/download.component';
     EducationComponent,
     HobbiesComponent,
     LinksComponent,
-    DownloadComponent
+    DownloadComponent,
+    ClauseComponent
   ],
   imports: [
     BrowserModule,
