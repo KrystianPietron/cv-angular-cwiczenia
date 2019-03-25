@@ -1,0 +1,14 @@
+.div__summary {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.div__summary-h3 {
+    width: 20vw;
+}
+
+.div__summary-p {
+    width: 60vw;
+}

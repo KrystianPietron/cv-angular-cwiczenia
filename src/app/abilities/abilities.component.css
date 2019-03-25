@@ -1,0 +1,14 @@
+.abilities__div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.abilities__div--h3 {
+    width: 20vw;
+}
+
+.abilities__div--p {
+    width: 60vw;
+}
