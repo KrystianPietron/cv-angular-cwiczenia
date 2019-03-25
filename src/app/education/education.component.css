@@ -1,0 +1,22 @@
+.education__section {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.education__section--h3 {
+    width: 20vw;
+}
+
+.education__section--p {
+    margin: 30px 0 0 0;
+}
+
+.education__section--div {
+    width: 60vw;
+}
+
+.education__section--h4 {
+    margin: 50px 0 0 0;
+}
