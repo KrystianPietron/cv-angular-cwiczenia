@@ -1,6 +1,12 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .app-div {
+    width: 80vw;
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 }
