@@ -1,0 +1,14 @@
+.hobbies__section {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: center;
+}
+
+.hobbies__section--h3 {
+    width: 20vw;
+}
+
+.hobbies__section--p {
+    width: 60vw;
+}
